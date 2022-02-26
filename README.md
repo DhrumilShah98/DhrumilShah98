@@ -3,7 +3,8 @@
 <p align="left">
   <img alt="Dhrumil's Profile Views" src="https://komarev.com/ghpvc/?username=DhrumilShah98&style=flat&color=blue&label=Profile%20View"/>
   <img alt="Dhrumil's GitHub Followers" src="https://img.shields.io/github/followers/DhrumilShah98?style=flat&color=blue&label=Followers"/>
-  <img alt="Dhrumil's GitHub Stars" src="https://img.shields.io/github/stars/DhrumilShah98?style=flat&color=blue&label=Stars">
+  <img alt="Dhrumil's GitHub Stars" src="https://img.shields.io/github/stars/DhrumilShah98?style=flat&color=blue&label=Stars"/>
+  <img alt="MIT LICENCE" src="https://img.shields.io/github/license/DhrumilShah98/DhrumilShah98?style=flat&color=blue&label=Licence"/>
 </p>
 
 - 🔭 I’m currently working on completing my Applied Computer Science 🎓 at Dalhousie University 🏫
