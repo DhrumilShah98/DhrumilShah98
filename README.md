@@ -13,6 +13,7 @@
 - 🥅 2022 Goals: Learn more about Data Structures, Algorithms, and Cloud Technologies
 - 👨 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming, sketching, and exploring new places
+- ✨ [Portfolio](https://dhrumilshah.vercel.app/)
 
 ## ❤️ Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:shah.dhrumil1998@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/DhrumilShah98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/dhrumilshah98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/dhrumil.shah1998)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/dhrumil_shah_98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/dhrumil_shah_98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://dhrumilshah.vercel.app/)
