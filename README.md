@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on completing my Applied Computer Science 🎓 at Dalhousie University 🏫
 - 🌱 I’m currently learning C#, Vue.js, React.js, Node.js, SQLServer
-- 💬 Ask me about Software Engineering and Full-stack development
+- 💬 Ask me about Android Development and Full-stack web development
 - 🥅 2022 Goals: Learn more about Data Structures, Algorithms, and Cloud Technologies
 - 👨 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming, sketching, and exploring new places
