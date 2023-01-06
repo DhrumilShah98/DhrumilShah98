@@ -10,7 +10,6 @@
 - 🔭 Graduated 🎓 from Dalhousie University 🏫 with a Master's degree in Applied Computer Science.
 - 🌱 Currently learning Advanced Android Development, Data Structures, Algorithms, and System Design Concepts.
 - 💬 Ask me about Android Development and Full-stack Web Development (JavaScript).
-- 🥅 2022 Goals: Learn more about Data Structures, Algorithms, and System Design Concepts.
 - 👨 Pronouns: He/Him
 - ⚡ Fun fact: I love swimming, sketching, playing keyboard, and exploring new places.
 - ✨ [Portfolio](https://dhrumilshah.vercel.app/)
