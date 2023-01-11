@@ -33,7 +33,7 @@
 </div>
 
 ## 📈 Github Activity Graph
-[![Dhrumil's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=DhrumilShah98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dhrumil's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DhrumilShah98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎊 Github Metrices and Languages Used
 <div align="center">
