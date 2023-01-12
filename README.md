@@ -26,7 +26,7 @@
 <tbody>
 <tr>
   <td style="text-align:center"><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumilShah98&theme=buefy" alt="Dhrumil's Streak Stats"/></a></td>
-  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DhrumilShah98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhrumil's Github Stats" /></a></td>
+  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=DhrumilShah98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhrumil's Github Stats" /></a></td>
 </tr>
 </tbody>
 </table>
@@ -41,7 +41,7 @@
 <tbody>
 <tr>
   <td style="text-align:center"><img src="https://metrics.lecoq.io/DhrumilShah98" alt="Dhrumil's Github Metrics" /></td>
-  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumilShah98&layout=compact&theme=buefy&hide_border=true" alt="Dhrumil's Top Languages"/></a></td>
+  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhrumilShah98&theme=buefy&hide_border=true" alt="Dhrumil's Top Languages"/></a></td>
 </tr>
 </tbody>
 </table>
