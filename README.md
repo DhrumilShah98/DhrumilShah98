@@ -35,12 +35,11 @@
 ## 📈 Github Activity Graph
 [![Dhrumil's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhrumilShah98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🎊 Github Metrices and Languages Used
-<div align="center">
+## 🎊 Languages Used
+<div align="start">
 <table>
 <tbody>
 <tr>
-  <td style="text-align:center"><img src="https://metrics.lecoq.io/DhrumilShah98" alt="Dhrumil's Github Metrics" /></td>
   <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DhrumilShah98&theme=buefy&hide_border=true" alt="Dhrumil's Top Languages"/></a></td>
 </tr>
 </tbody>
